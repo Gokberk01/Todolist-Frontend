@@ -1,4 +1,4 @@
-Todolist backend. I used dotnet and postgresql that runs in docker.
+Todolist frontend. I used Angular.
 
 
 # TodolistProject
